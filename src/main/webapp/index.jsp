@@ -5,7 +5,7 @@
 <head>
 <meta charset="UTF-8">
 <link rel="stylesheet" href = "../img/libraly.webp">
-<title>Insert title here</title>
+<title>トップメニュー</title>
 </head>
 <body>
 	<%
